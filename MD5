@@ -1,4 +1,4 @@
-0c8ab477c0a611a965a1e1c52b0ed672 *DESCRIPTION
+7b368699280e2c159c018ca77fa3f297 *DESCRIPTION
 0eabda7c4cda31e2c6cb710e9b65ab67 *LICENSE
 159eeb80737999ededb8176b76705990 *NAMESPACE
 0be945a3e58cb68eca324a10e89a9b94 *NEWS.md
@@ -10,8 +10,8 @@
 9602d754c911450cb1f4afda706d41d4 *R/outliers_mahalanobis.R
 801fd0b5a6e07bdb8066a42ffdd1c441 *R/outliers_mcd.R
 6f81fceae10686fca8b5035f9c3107bd *R/plot_outliers_mad.R
-0556654cb3fccefcb27285b8e6c8272c *R/plot_outliers_mahalanobis.R
-03cbee64d7a763ac64d62c93f1bcb295 *R/plot_outliers_mcd.R
+c739d223512986cca186da6eb6bf9134 *R/plot_outliers_mahalanobis.R
+30b3179d989c99de166d4bf6d2de2c86 *R/plot_outliers_mcd.R
 7b340fbb433a862e0d49914b907bf553 *README.md
 69493a2508083c2c22a1d9823d033c88 *data/Attacks.RData
 da77580a67220e64e0325b9d84fafad6 *data/Attacks.rda
@@ -30,8 +30,8 @@ aeb4ea08336c0d6346c65b8b168ff16c *man/figures/README-unnamed-chunk-6-1.png
 c84188ff848eacd5632d8b4353012a2d *man/outliers_mahalanobis.Rd
 6328bf8842a3c2ee44e522d91af28fb2 *man/outliers_mcd.Rd
 98b349b2415719bec3f7798d1130b3c2 *man/plot_outliers_mad.Rd
-1c7b25bd914ec33890329f144438f188 *man/plot_outliers_mahalanobis.Rd
-74640160ffbea64a228cbc73976b6f97 *man/plot_outliers_mcd.Rd
+859dfc03bd386f551ade7425e2ec73cb *man/plot_outliers_mahalanobis.Rd
+612729f4d9841590ddebc9b19770ae83 *man/plot_outliers_mcd.Rd
 c6d180a79089f9a58aa9d57782a1b22b *tests/testthat.R
 23fc21a51ca6ffd8288d7857d1bd4007 *tests/testthat/test-outliers_mad.R
 8a5ed2e2b828dce0002edc08e64488de *tests/testthat/test-outliers_mahalanobis.R
